@@ -1,3 +1,5 @@
+**DEPRECATED! These scripts were developed in 2014 and they won't work in modern iOS devices. ARCHIVED.**
+
 This repository is just a dump with the scripts that I used in order to change JailbreakMe 3.0 exploits into a weaponized exploit.
 
 Your paths probably are different from those in the shell scripts, so please adapt them to your own system.
